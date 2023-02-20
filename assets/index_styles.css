@@ -1,0 +1,41 @@
+*{
+    background-color: #cccccc;
+}
+header{
+    color: #967bb6;
+    background-color: #333333;
+    text-align: center;
+}
+.clock {
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .separator {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .hours, .minutes, .seconds {
+    display: inline-block;
+    background-color: #666666;
+    color: #967bb6;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #minutes-since {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+  }
+  #loveSince {
+        font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
